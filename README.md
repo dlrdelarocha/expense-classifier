@@ -221,4 +221,4 @@ Headers
 
 #### Testing
 For testing the API endpoints, you can use the Postman collection available in the project's public folder. 
-[Download Postman Collection](https://raw.githubusercontent.com/your/repository/main/public/file_name.extension)
+[Download Postman Collection](https://github.com/dlrdelarocha/expense-classifier/blob/main/public/shared/Expenses.postman_collection.json)
